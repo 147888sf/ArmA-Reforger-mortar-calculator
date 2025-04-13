@@ -8,6 +8,13 @@ Report me any bugs/suggest any features here or in discord: @vova_4104
 3. Multiple ring options (to compare dispersion and flight time)
 
 ## How to use
-1. Select mortar
-2. Select shell
-3. Enter firing dist & get firing data: ring amount, dispersion, elevation, time in flight
+1. (In game) aim mortar to target
+2. (In game) using protractor tool calculate target distance
+3. (In game) hover mortar position and remember the altitude. Then do the same for the target
+3. Run app
+4. Select your mortar
+5. Select your shell
+6. Enter target dist
+7. Enter mortar & target altitude
+8. (In game) aim your mortar to the output values
+9. (In game) Fire
