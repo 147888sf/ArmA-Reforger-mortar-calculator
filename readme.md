@@ -8,7 +8,7 @@ Report me any bugs/suggest any features here or in discord: @vova_4104
 3. Multiple ring options (to compare dispersion and flight time)
 
 ## How to use
-1. (In game) aim mortar to target
+1. (In game) aim mortar to the target azimuth
 2. (In game) using protractor tool calculate target distance
 3. (In game) hover mortar position and remember the altitude. Then do the same for the target
 3. Run app
